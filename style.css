@@ -1,25 +1,39 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 *{
     margin: 0;
     padding: 0;
+    font-weight: 400;
 }
 :root{
-    --branco: #dad7cdff;
-    --verde-clarinho: #a3b18aff;
-    --verde-folha-claro: #588157ff;
-    --verde-militar: #3a5a40ff;
-    --verde-extremo: #344e41ff;
-    --fonte-titulo:"PT Serif", serif;
-    --fonte-texto:"Playfair Display", serif;
+    --Azul-escuro: #001524ff;
+    --ciano: #15616dff;
+    --branco: #ffecd1ff;
+    --laranja: #ff7d00ff;
+    --marrom: #78290fff;
+    --fonte-titulo:"Gruppo", sans-serif;
+    --fonte-texto:"Poppins", sans-serif;
 }
 
 body{
-    background-color:var(--verde-clarinho);
-    font-family:var(--fonte-texto);
-    font-size: 16px;
+    background-color: var(--Azul-escuro);
+    color: var(--marrom);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: var(--fonte-texto);
 }
 
-.titulo-principal{
+.caixa-principal{
+    background-color: var(--laranja);
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;
+}
+
+.titulo{
+    color: var(--branco);
     font-family: var(--fonte-titulo);
 }
+
