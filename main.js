@@ -21,23 +21,23 @@ const perguntas = [
         enunciado: "Recebeu a notícia que foi aceito no curso superior de engenharia de software ",
         alternativas: [ {
             texto:"Agora estou divido se sigo na área de TI ou persigo meu sonho de ser musicista",
-            afirmacao:"Tenta encontrar um jeito de juntar seus dois objetivos"
+            afirmacao:"Tenta encontrar um jeito de juntar seus dois objetivos, mas toma a descisão de aceitar a vaga,"
         },
         {
-            texto:"Alternativas04",
-            afirmacao:"afirmação04"
+            texto:"Vou continuar na área, pois preciso de estabilidade",
+            afirmacao:"Está cursando engenharia de software"
         }
         ]  
     },
     {
-        enunciado: "texto03",
+        enunciado: "Você descobre que a áreas da tecnologia que conversam com a música",
         alternativas: [ {
-            texto:"Alternativas05",
-            afirmacao:"afirmção05"
+            texto:"Estou muito estusiasmado em saber que a possibilidade de trabalhar com as duas coisas",
+            afirmacao:"Começa a se aprofundar mais sobre o assunto durante a faculdade"
         },
         {
-            texto:"Alternativas06",
-            afirmacao:"afirmação06"
+            texto:"Não vejo um futuro seguindo essa área do TI",
+            afirmacao:"Durante a faculdade foca em gerenciamneto de projeto"
         }
         ]  
     },
