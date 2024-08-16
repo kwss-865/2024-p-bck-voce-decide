@@ -37,31 +37,31 @@ const perguntas = [
         },
         {
             texto:"Não vejo um futuro seguindo essa área do TI",
-            afirmacao:"Durante a faculdade foca em gerenciamneto de projeto"
+            afirmacao:"Durante a faculdade foca em gerenciamneto de projeto,"
         }
         ]  
     },
     {
-        enunciado: "texto04",
+        enunciado: "Um colega da faculdade descobre que você entende de música e pede ajuda em seu projeto, de um software de com um metronomo e afinador digital",
         alternativas: [ {
-            texto:"Alternativas07",
-            afirmacao:"afirmação07"
+            texto:"Estou super interrasado no projeto, não podia ser uma hora melhor era oque eu estava procurando",
+            afirmacao:"Você inicia o projeto com seu colega de faculdade e pretende usar no seu TCC,"
         },
         {
-            texto:"Alternativas08",
-            afirmacao:"afirmação08"
+            texto:"Uma ótima ideia, porém estou concluindo um projeto e não terei tempo",
+            afirmacao:"Você se está seguro em seu projeto de gerenciamento de software,"
         }
         ]  
     },
     {
-        enunciado: "texto05",
+        enunciado: "Você conseguiiu e concluiu a faculdade, O que irá fazer depois?",
         alternativas: [ {
-            texto:"Alternativas09",
-            afirmacao:"afirmação09"
+            texto:"Vou seguir no campo de criação de software para músicos",
+            afirmacao:"Cria uma software de afinação de instrumentos músicais que revolucinou o mercado "
         },
         {
-            texto:"Alternativas10",
-            afirmacao:"afirmação10"
+            texto:"Vou seguir o ramo de gerenciamento de projetos e focar em trabalhar no exterior",
+            afirmacao:"consegue um emprego de sênior, em um banco renomado da frança"
         }
         ]  
     }
