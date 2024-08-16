@@ -16,7 +16,7 @@
 
 body{
     background-color: var(--Azul-escuro);
-    color: var(--marrom);
+    color: var(--ciano);
     display: flex;
     justify-content: center;
     align-items: center;

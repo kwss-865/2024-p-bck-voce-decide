@@ -6,22 +6,22 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "texto01",
+        enunciado: "Você lê uma notícia sobre vagas para um reformatorio de música",
         alternativas: [ {
-            texto:"Alternativas01",
-            afirmacao: "afirmação01"
+            texto:"Interresante, meu sonho de infância sempre foi ser musicista",
+            afirmacao: "Você tem esperanças e expectativas de conseguir concilhar a musica com sua vida profissional,"
         },
         {
-            texto:"Alternativas02",
-            afirmacao:"afirmção02"
+            texto:"Iria ser incrivel mas não tenho a segurança de uma carreira estavél",
+            afirmacao:"Você é mais pesimista em relação a focar na musica e conseguir bons resultados,"
         }
         ]
     },
     {
-        enunciado: "texto02",
+        enunciado: "Recebeu a notícia que foi aceito no curso superior de engenharia de software ",
         alternativas: [ {
-            texto:"Alternativas03",
-            afirmacao:"afirmação03"
+            texto:"Agora estou divido se sigo na área de TI ou persigo meu sonho de ser musicista",
+            afirmacao:"Tenta encontrar um jeito de juntar seus dois objetivos"
         },
         {
             texto:"Alternativas04",
